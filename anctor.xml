@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ini>
+	<!--ini file for anctor-->
+	<firm name = "ООО &quot;БОСЛА&quot;">
+		<comm>Подрезка на станке - обязательна!</comm>
+	</firm>
+	
+	<firm name = "ООО &quot;МАРКЕР&quot;">
+		<comm>Подрезка на станке - обязательна!</comm>
+	</firm>
+</ini>
