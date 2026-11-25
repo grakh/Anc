@@ -1,0 +1,7 @@
+# Файлы программ и документации — всегда LF, независимо от core.autocrlf.
+# .anc из AlphaCAM приходят с CRLF и лежат вне репозитория, их это не касается.
+* text=auto
+*.pyw text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
+*.bat text eol=crlf
